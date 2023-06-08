@@ -1,0 +1,6 @@
+.git
+.dockerignore
+.env
+muse/node_modules/
+muse/vendor/bundle/
+muse/tmp/
